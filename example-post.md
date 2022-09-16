@@ -1,13 +1,12 @@
 ---
 title: Windows 上使用 SSH 签名 Git 提交记录
-subtitle: GitHub 官宣正式支持显示 SSH 签名，因此你可以使用自己生成的 SSH 密钥在本地签名提交记录以防止他人冒充伪造提交记录
-description: "GitHub 官宣正式支持显示 SSH 签名，因此你可以使用自己生成的 SSH 密钥在本地签名提交记录以防止他人冒充伪造提交记录"
 slug: signing-git-commits-with-ssh-keys
-tags: reactjs, css, python, nodejs
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1649662225945/7f_c6UxhR.jpg?auto=compress
-domain: tobychung.hashnode.dev
 date: "2022-08-30"
 updated: "2022-09-15"
+description: "GitHub 官宣正式支持显示 SSH 签名，因此你可以使用自己生成的 SSH 密钥在本地签名提交记录以防止他人冒充伪造提交记录"
+tags: reactjs, css, python, nodejs
+domain: dev.tobychung.com
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1649662225945/7f_c6UxhR.jpg?auto=compress
 ---
 
 ## 前提
