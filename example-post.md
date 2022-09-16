@@ -105,7 +105,7 @@ git log --show-signature -3
 clip < ~/.ssh/id_ed25519.pub
 ```
 
-  ![认证成功]((2022-08-30) 使用 SSH 签名 Git 提交记录/认证成功.png)
+![Testing SSH signing](https://cdn.hashnode.com/res/hashnode/image/upload/v1663318561458/AKt-iZOfZ.png "Testing SSH signing")
 
 ## 参考
 
@@ -113,4 +113,3 @@ clip < ~/.ssh/id_ed25519.pub
 - [About commit signature verification - GitHub Docs](https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification#ssh-commit-verification)
 - [使用 SSH 签名 Git 提交记录](https://taoshu.in/git/ssh-sign.html)
 - [Signing Git Commits with Your SSH Key](https://calebhearth.com/sign-git-with-ssh)
-
