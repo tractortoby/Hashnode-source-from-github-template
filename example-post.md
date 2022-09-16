@@ -105,7 +105,7 @@ git log --show-signature -3
 clip < ~/.ssh/id_ed25519.pub
 ```
 
-![Testing SSH signing](https://cdn.hashnode.com/res/hashnode/image/upload/v1663318561458/AKt-iZOfZ.png "Testing SSH signing")
+![Testing SSH signing](https://cdn.hashnode.com/res/hashnode/image/upload/v1663318561458/AKt-iZOfZ.png)
 
 ## 参考
 
