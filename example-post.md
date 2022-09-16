@@ -1,6 +1,6 @@
 ---
-title: "Windows 上使用 SSH 签名 Git 提交记录"
-subtitle: "GitHub 官宣正式支持显示 SSH 签名，因此你可以使用自己生成的 SSH 密钥在本地签名提交记录以防止他人冒充伪造提交记录"
+title: Windows 上使用 SSH 签名 Git 提交记录
+subtitle: GitHub 官宣正式支持显示 SSH 签名，因此你可以使用自己生成的 SSH 密钥在本地签名提交记录以防止他人冒充伪造提交记录
 description: "GitHub 官宣正式支持显示 SSH 签名，因此你可以使用自己生成的 SSH 密钥在本地签名提交记录以防止他人冒充伪造提交记录"
 slug: signing-git-commits-with-ssh-keys
 tags: reactjs, css, python, nodejs
